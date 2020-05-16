@@ -3,7 +3,7 @@ Analyze A/B Test Results is part of Udacity Data Science Foundations II Nanodegr
 This project performs an A/B test run by an e-commerce website. 
 ___
 ## Notebook Application
-The file `Analyze_ab_test_results_notebook.ipynb` will guide you through all steps taken to perform and understand the 
+The file `Analyze_ab_test_results_notebook.ipynb` will guide you through the steps taken to perform and understand the 
 A/B test. 
 ___
 ## Requirements
