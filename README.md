@@ -7,6 +7,7 @@ The file `Analyze_ab_test_results_notebook.ipynb` will guide you through the ste
 A/B test. 
 ___
 ## Requirements
+* Python 3.7.7
 * Pandas 1.0.3
 * Numpy 1.18.1
 * Matplotlib 3.1.3
@@ -15,8 +16,3 @@ ___
 This project was run using conda as environment manager.
 You can easily reproduce the environment using the `environment.yml` file provided, see instructions 
 [here](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file).<br>
-
-
-
-
-
